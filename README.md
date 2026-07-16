@@ -481,7 +481,7 @@ Automatically prepares a Gmail draft populated with the generated outreach email
 
 The dashboard collects sender information, prospect details, and contact information required for personalized outreach.
 
-![](assets/Dashboard_1)
+![](assets/Dashboard_1.jpeg)
 
 ---
 
@@ -498,7 +498,7 @@ Users define the product or service being offered by specifying:
 
 These inputs allow the AI agents to generate context-aware research and personalized messaging.
 
-![](assets/Dashboard_2)
+![](assets/Dashboard_2.jpeg)
 
 ---
 
@@ -513,7 +513,7 @@ The platform supports configurable outreach preferences, including:
 
 These settings influence the writing agent while preserving factual grounding from the research pipeline.
 
-![](assets/Dashboard_3)
+![](assets/Dashboard_3.jpeg)
 
 ---
 
@@ -528,7 +528,7 @@ After execution, the dashboard displays:
 
 This provides transparency into the reasoning process and allows users to verify the information used during email generation.
 
-![](assets/Dashboard_4)
+![](assets/Dashboard_4jpeg)
 
 ---
 
