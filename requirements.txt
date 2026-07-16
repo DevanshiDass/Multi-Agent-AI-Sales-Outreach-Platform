@@ -1,0 +1,7 @@
+crewai==0.86.0
+crewai-tools==0.17.0
+litellm==1.55.4
+requests==2.32.3
+python-dotenv==1.0.1
+pydantic==2.9.2
+streamlit>=1.40.0
